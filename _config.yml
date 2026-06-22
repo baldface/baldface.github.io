@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jason (Jay) Van Vliet's homepage
 description: Bookmark this to keep an eye on my project updates!
-baseurl: "/baldface.github.io"
-url: "https://baldface.github.io"
+baseurl: ""
+url: "https://github.io"
