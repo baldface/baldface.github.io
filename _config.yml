@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Jason (Jay) Van Vliet's homepage
 description: Bookmark this to keep an eye on my project updates!
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+end
