@@ -1,0 +1,16 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS system files
+.DS_Store
+
+# Ruby/Bundler
+.bundle/
+vendor/bundle/
+
+# IDE/Editor settings
+.idea/
+.vscode/
