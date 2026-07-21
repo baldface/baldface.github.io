@@ -5,6 +5,7 @@ title: Contact
 nav: false
 nav_order: 6
 ---
+
 <style>
   form {
     display: grid;
@@ -53,6 +54,7 @@ nav_order: 6
 </style>
 
 Feel free to reach out using the form below:
+
 <form
   action="https://formspree.io/f/meeyodjz"
   method="POST"
@@ -67,5 +69,6 @@ Feel free to reach out using the form below:
     <textarea name="message" rows="8"></textarea>
   </label>
 
-  <button type="submit">Send</button>
+<button type="submit">Send</button>
+
 </form>
