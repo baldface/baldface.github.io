@@ -239,6 +239,7 @@ exclude:
   - migrations/
   - vendor
   - _posts/
+  - _profiles
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
